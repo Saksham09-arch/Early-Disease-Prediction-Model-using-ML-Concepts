@@ -1,4 +1,5 @@
 A machine learning-based classification project designed to identify individuals at risk for heart disease, using health metrics and lifestyle data.
+
 🔍 Project Overview:
 - Predicts the likelihood of heart disease using key health indicators.
 - Designed to assist early diagnosis and support preventive healthcare decisions.
